@@ -8,6 +8,8 @@ tags:
   - edge case
   - lists
   - markup
+header:
+  image: https://farm5.staticflickr.com/4140/4939863887_84705982fd_b.jpg
 ---
 
 Nested and mixed lists are an interesting beast. It's a corner case to make sure that
@@ -58,3 +60,12 @@ Nested and mixed lists are an interesting beast. It's a corner case to make sure
     2. **ordered item**
 * unordered item
 * unordered item
+
+```python
+def awesome():
+  print( "Well here is awesome!" )
+
+if __name__ == '__main__':
+  awesome() # Hope this works
+
+```
