@@ -12,11 +12,11 @@ locale                   : "en"
 title                    : "Eshan's Lab"
 title_separator          : "-"
 name                     : "Eshan Shafeeq"
-description              : "Eshan's online documentation of the lab."
+description              : "My online documentation of all the fun i have."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : diehard073055.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : /assets/images/hacker-desktop.jpg # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 breadcrumbs            : true # true, false (default)
 words_per_minute         : 200
 comments:
@@ -85,23 +85,23 @@ analytics:
 author:
   name             : "Eshan Shafeeq"
   avatar           : /assets/images/avatar.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am a curious soul"
-  location         : "Maldives"
+  bio              : "Software Engineer, Passionate about the Internet of Things."
+  location         : "Maldives --> Singapore"
   email            : "eshanshafeeq073055@gmail.com"
   uri              :
-  bitbucket        :
+  bitbucket        : "https://bitbucket.org/DieHard073055/"
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "https://www.facebook.com/naanu073055"
   foursquare       :
-  github           :
+  github           : "https://github.com/DieHard073055"
   gitlab           :
   google_plus      :
   keybase          :
   instagram        : "https://www.instagram.com/diehardofdeath/"
   lastfm           :
-  linkedin         : # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
+  linkedin         : "https://www.linkedin.com/in/eshanshafeeq/" # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
@@ -111,7 +111,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          : # "https://youtube.com/c/MichaelRoseDesign"
+  youtube          : "https://www.youtube.com/channel/UC3fGtF0Wab9woqelMzS1Xnw" # "https://youtube.com/c/MichaelRoseDesign"
 
 
 # Reading Files
