@@ -832,7 +832,7 @@ Also this file defines the `__init` and the `__exit` methods for the kernel modu
 /**
 * @file    chardev_command.c
 * @author  Eshan Shafeeq
-* @date    30 March 2016
+* @date    30 March 2017
 * @version 0.1
 * @brief   A character device driver capable
 *          of receiving commands and distinguishing
