@@ -21,7 +21,7 @@ li.masthead__menu-item {
     text-transform: lowercase;
 }
 
-.greedy-nav a {
+.greedy-nav a.site-title {
     display: block;
     margin: 0 1rem;
     padding: 0.5rem 0;
