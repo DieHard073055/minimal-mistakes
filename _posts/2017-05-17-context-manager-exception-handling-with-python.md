@@ -48,8 +48,8 @@ print('done with the with block')
 
 The code above pretends to be a highspeed file writer. It demonstrates 2 scenarios, one is when the code runs normal, the other one is when some exception is raised. When the exception is caught, the `__exit__` method is able to execute the appropriate piece of code in case an exception was raised during the scope of the current context manager class. Below is the output from executing the code above.
 
-```bash
-$python context-manager-exception-handling.py
+```shell
+$ python context-manager-exception-handling.py
 Initialised the high speed file writter!
 In the with block
 writing something to a file real fast!
@@ -65,4 +65,4 @@ Traceback (most recent call last):
 ZeroDivisionError: integer division or modulo by zero
 ```
 
-As you can see, this is how we can handle exceptions that occur during the scope of a context manager class. This should help us write more clean pythonic code in the future.
+As you can see, this is how we can handle exceptions that occur during the scope of a context manager class. This should help us write more robust pythonic code in the future.
